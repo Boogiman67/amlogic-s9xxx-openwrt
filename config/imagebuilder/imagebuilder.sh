@@ -203,6 +203,9 @@ rebuild_firmware() {
         \
         luci-app-amlogic \
         \
+        luci-proto-mbim kmod-usb-net-huawei-cdc-ncm kmod-usb-net-cdc-ether kmod-usb-acm \
+        kmod-usb-net-cdc-mbim kmod-usb-net-rndis kmod-usb-ohci kmod-usb-uhci kmod-usb2 \
+        \
         libqmi kmod-usb-net kmod-usb-serial kmod-usb-serial-wwan kmod-usb-serial-option kmod-usb-serial-qualcomm \
         kmod-usb-wdm kmod-usb-net-qmi-wwan libmbim \
         \
