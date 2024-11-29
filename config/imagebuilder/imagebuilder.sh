@@ -205,7 +205,7 @@ rebuild_firmware() {
         \
         libqmi kmod-usb-net kmod-usb-serial kmod-usb-serial-wwan kmod-usb-serial-option kmod-usb-serial-qualcomm \
         kmod-usb-wdm kmod-usb-net-qmi-wwan libmbim \
-        
+        \
         ${config_list} \
         "
 
