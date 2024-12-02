@@ -190,7 +190,7 @@ rebuild_firmware() {
         coreutils-truncate curl dosfstools dumpe2fs e2freefrag e2fsprogs \
         exfat-mkfs f2fs-tools f2fsck fdisk gawk getopt git gzip hostapd-common iconv iw iwinfo jq \
         jshn kmod-brcmfmac kmod-brcmutil kmod-cfg80211 kmod-mac80211 kmod-br-netfilter libjson-script liblucihttp \
-        liblucihttp-lua losetup lsattr lsblk lscpu mkf2fs mount-utils openssl-util parted \
+        liblucihttp-lua losetup lsattr lsblk lscpu mkf2fs modemmanager mount-utils openssl-util parted \
         perl-http-date perlbase-file perlbase-getopt perlbase-time perlbase-unicode perlbase-utf8 \
         pigz ppp ppp-mod-pppoe proto-bonding pv rename resize2fs runc tar tini ttyd tune2fs \
         uclient-fetch uhttpd uhttpd-mod-ubus unzip uuidgen wget-ssl whereis \
@@ -199,7 +199,7 @@ rebuild_firmware() {
         luci luci-base luci-compat luci-lib-base luci-lib-ip luci-lib-ipkg luci-lib-jsonc luci-lib-nixio \
         luci-mod-admin-full luci-mod-network luci-mod-status luci-mod-system luci-proto-3g luci-proto-bonding \
         luci-proto-ipip luci-proto-ipv6 luci-proto-mbim luci-proto-ncm luci-proto-openconnect luci-proto-ppp \
-        luci-proto-relay \
+        luci-proto-relay luci-proto-modemmanager\
         \
         luci-app-amlogic \
         \
