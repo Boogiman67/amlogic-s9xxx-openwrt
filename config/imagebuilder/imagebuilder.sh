@@ -193,7 +193,7 @@ rebuild_firmware() {
         liblucihttp-lua libqmi libqrtr-glib losetup lsattr lsblk lscpu mkf2fs modemmanager mount-utils openssl-util parted \
         perl-http-date perlbase-file perlbase-getopt perlbase-time perlbase-unicode perlbase-utf8 \
         pigz ppp ppp-mod-pppoe proto-bonding pv rename resize2fs runc tar tini ttyd tune2fs \
-        uclient-fetch uhttpd uhttpd-mod-ubus unzip uuidgen wget-ssl whereis \
+        uclient-fetch uhttpd uhttpd-mod-ubus unzip usbutils uuidgen wget-ssl whereis \
         which wpad-basic wwan xfs-fsck xfs-mkfs xz xz-utils ziptool zoneinfo-core zstd \
         \
         luci luci-base luci-compat luci-lib-base luci-lib-ip luci-lib-ipkg luci-lib-jsonc luci-lib-nixio \
